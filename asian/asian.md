@@ -9,5 +9,5 @@ Select a specific Asian food:
 
 
 
-[Start Over](br-restaurant-guide/asian/)
+[Start Over](br-restaurant-guide/../)
 
